@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/jsalammagari/leetcode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/jsalammagari/leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/jsalammagari/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/jsalammagari/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jsalammagari/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -40,6 +41,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jsalammagari/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/jsalammagari/leetcode/tree/master/0125-valid-palindrome) |
+| [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +62,15 @@
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/jsalammagari/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jsalammagari/leetcode/tree/master/2058-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
