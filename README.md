@@ -14,6 +14,7 @@
 | [0792-binary-search](https://github.com/jsalammagari/leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/jsalammagari/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
+| [1137-height-checker](https://github.com/jsalammagari/leetcode/tree/master/1137-height-checker) |
 | [2048-build-array-from-permutation](https://github.com/jsalammagari/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jsalammagari/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -28,6 +29,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/jsalammagari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jsalammagari/leetcode/tree/master/0242-valid-anagram) |
+| [1137-height-checker](https://github.com/jsalammagari/leetcode/tree/master/1137-height-checker) |
 ## String
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/jsalammagari/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
