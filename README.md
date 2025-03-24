@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jsalammagari/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/jsalammagari/leetcode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/jsalammagari/leetcode/tree/master/0792-binary-search) |
+| [2058-concatenation-of-array](https://github.com/jsalammagari/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jsalammagari/leetcode/tree/master/0066-plus-one) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/jsalammagari/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
