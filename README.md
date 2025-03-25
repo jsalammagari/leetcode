@@ -15,6 +15,7 @@
 | [0822-unique-morse-code-words](https://github.com/jsalammagari/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
 | [1137-height-checker](https://github.com/jsalammagari/leetcode/tree/master/1137-height-checker) |
+| [1395-minimum-time-visiting-all-points](https://github.com/jsalammagari/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2048-build-array-from-permutation](https://github.com/jsalammagari/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jsalammagari/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jsalammagari/leetcode/tree/master/0066-plus-one) |
+| [1395-minimum-time-visiting-all-points](https://github.com/jsalammagari/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Simulation
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/jsalammagari/leetcode/tree/master/1137-height-checker) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/jsalammagari/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
