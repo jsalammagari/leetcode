@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/jsalammagari/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jsalammagari/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/jsalammagari/leetcode/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/jsalammagari/leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/jsalammagari/leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/jsalammagari/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/jsalammagari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jsalammagari/leetcode/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/jsalammagari/leetcode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/jsalammagari/leetcode/tree/master/1137-height-checker) |
 ## String
 |  |
@@ -80,9 +82,14 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/jsalammagari/leetcode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/jsalammagari/leetcode/tree/master/1137-height-checker) |
 ## Geometry
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/jsalammagari/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/jsalammagari/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
