@@ -21,6 +21,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jsalammagari/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/jsalammagari/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jsalammagari/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jsalammagari/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2048-build-array-from-permutation](https://github.com/jsalammagari/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jsalammagari/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -39,6 +40,7 @@
 | [0561-array-partition](https://github.com/jsalammagari/leetcode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/jsalammagari/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jsalammagari/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jsalammagari/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jsalammagari/leetcode/tree/master/0561-array-partition) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jsalammagari/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
