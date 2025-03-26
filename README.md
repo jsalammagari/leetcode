@@ -25,6 +25,7 @@
 | [1580-shuffle-the-array](https://github.com/jsalammagari/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/jsalammagari/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/jsalammagari/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/jsalammagari/leetcode/tree/master/1651-shuffle-string) |
 | [2048-build-array-from-permutation](https://github.com/jsalammagari/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jsalammagari/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -52,6 +53,7 @@
 | [0125-valid-palindrome](https://github.com/jsalammagari/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jsalammagari/leetcode/tree/master/0242-valid-anagram) |
 | [0822-unique-morse-code-words](https://github.com/jsalammagari/leetcode/tree/master/0822-unique-morse-code-words) |
+| [1651-shuffle-string](https://github.com/jsalammagari/leetcode/tree/master/1651-shuffle-string) |
 ## Two Pointers
 |  |
 | ------- |
