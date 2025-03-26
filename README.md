@@ -22,6 +22,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/jsalammagari/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jsalammagari/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jsalammagari/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/jsalammagari/leetcode/tree/master/1580-shuffle-the-array) |
 | [2048-build-array-from-permutation](https://github.com/jsalammagari/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jsalammagari/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
