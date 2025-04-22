@@ -128,20 +128,24 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jsalammagari/leetcode/tree/master/0100-same-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jsalammagari/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jsalammagari/leetcode/tree/master/0100-same-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jsalammagari/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jsalammagari/leetcode/tree/master/0100-same-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jsalammagari/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jsalammagari/leetcode/tree/master/0100-same-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jsalammagari/leetcode/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
