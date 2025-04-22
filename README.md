@@ -125,4 +125,16 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/jsalammagari/leetcode/tree/master/1656-count-good-triplets) |
+## Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
