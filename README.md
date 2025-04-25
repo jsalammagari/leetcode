@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jsalammagari/leetcode/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/jsalammagari/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/jsalammagari/leetcode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -94,6 +95,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/jsalammagari/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -136,6 +138,7 @@
 | [0110-balanced-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jsalammagari/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jsalammagari/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/jsalammagari/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jsalammagari/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -162,6 +165,7 @@
 | [0110-balanced-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jsalammagari/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jsalammagari/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/jsalammagari/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jsalammagari/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
