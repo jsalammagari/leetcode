@@ -140,6 +140,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/jsalammagari/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/jsalammagari/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jsalammagari/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jsalammagari/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/1005-univalued-binary-tree) |
@@ -153,6 +154,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/jsalammagari/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jsalammagari/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jsalammagari/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jsalammagari/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/1005-univalued-binary-tree) |
@@ -167,6 +169,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/jsalammagari/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/jsalammagari/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jsalammagari/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jsalammagari/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/1005-univalued-binary-tree) |
@@ -179,4 +182,12 @@
 | [0226-invert-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jsalammagari/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/1005-univalued-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/jsalammagari/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/jsalammagari/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
