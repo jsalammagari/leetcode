@@ -152,6 +152,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/jsalammagari/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jsalammagari/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jsalammagari/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -172,6 +173,7 @@
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jsalammagari/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jsalammagari/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jsalammagari/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -194,6 +196,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/jsalammagari/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/jsalammagari/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jsalammagari/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jsalammagari/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/jsalammagari/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
