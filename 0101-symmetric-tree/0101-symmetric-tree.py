@@ -12,4 +12,6 @@ class Solution:
             return True
         if not node1 or not node2:
             return False
-        return (node1.val == node2.val) and (self.isMirror(node1.left,node2.right) and self.isMirror(node2.left,node1.right) )
+        if node1.val != node2.val:
+            return False
+        return self.isMirror(node1.left,node2.right) and self.isMirror(node1.right,node2.left)
