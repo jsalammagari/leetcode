@@ -9,14 +9,15 @@ class Solution:
         if not root:
             return []
         result = []
-        return self.getPaths(root,"",result)
+        self.getPaths(root,"",result)
+        return result
     def getPaths(self,root,path,result):
         if not root:
             return None
+        path = path+str(root.val)
         if not root.left and not root.right:
-            result.append(path+str(root.val))
-        if root.left:
-            self.getPaths(root.left,path+str(root.val)+"->",result)
-        if root.right:
-            self.getPaths(root.right,path+str(root.val)+"->",result)
-        return result
+            result.append(path)
+        else:
+            path = path + "->"
+            self.getPaths(root.left,path,result)
+            self.getPaths(root.right,path,result)
