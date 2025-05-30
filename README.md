@@ -88,6 +88,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/jsalammagari/leetcode/tree/master/0066-plus-one) |
 | [1395-minimum-time-visiting-all-points](https://github.com/jsalammagari/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jsalammagari/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/jsalammagari/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
@@ -245,4 +246,5 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/jsalammagari/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jsalammagari/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
