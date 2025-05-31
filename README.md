@@ -245,6 +245,11 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/jsalammagari/leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/jsalammagari/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jsalammagari/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jsalammagari/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
