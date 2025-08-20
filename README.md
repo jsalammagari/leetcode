@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/jsalammagari/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jsalammagari/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jsalammagari/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jsalammagari/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jsalammagari/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/jsalammagari/leetcode/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jsalammagari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jsalammagari/leetcode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/jsalammagari/leetcode/tree/master/0561-array-partition) |
@@ -64,6 +66,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jsalammagari/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jsalammagari/leetcode/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jsalammagari/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
