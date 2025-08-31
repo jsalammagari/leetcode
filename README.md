@@ -35,6 +35,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/jsalammagari/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/jsalammagari/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jsalammagari/leetcode/tree/master/2058-concatenation-of-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jsalammagari/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0822-unique-morse-code-words](https://github.com/jsalammagari/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jsalammagari/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jsalammagari/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jsalammagari/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [1137-height-checker](https://github.com/jsalammagari/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jsalammagari/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jsalammagari/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jsalammagari/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/jsalammagari/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/jsalammagari/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jsalammagari/leetcode/tree/master/2058-concatenation-of-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jsalammagari/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,10 +143,12 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jsalammagari/leetcode/tree/master/0561-array-partition) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jsalammagari/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jsalammagari/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jsalammagari/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
 |  |
 | ------- |
