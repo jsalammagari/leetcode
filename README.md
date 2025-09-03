@@ -42,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jsalammagari/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jsalammagari/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/jsalammagari/leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/jsalammagari/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jsalammagari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jsalammagari/leetcode/tree/master/0242-valid-anagram) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jsalammagari/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/jsalammagari/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/jsalammagari/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/jsalammagari/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jsalammagari/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jsalammagari/leetcode/tree/master/0242-valid-anagram) |
@@ -110,6 +112,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jsalammagari/leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/jsalammagari/leetcode/tree/master/0066-plus-one) |
 | [1395-minimum-time-visiting-all-points](https://github.com/jsalammagari/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jsalammagari/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
