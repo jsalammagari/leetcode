@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jsalammagari/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jsalammagari/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/jsalammagari/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jsalammagari/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jsalammagari/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0088-merge-sorted-array) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/jsalammagari/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jsalammagari/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/jsalammagari/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jsalammagari/leetcode/tree/master/0066-plus-one) |
 | [1395-minimum-time-visiting-all-points](https://github.com/jsalammagari/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jsalammagari/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -144,6 +146,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jsalammagari/leetcode/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/jsalammagari/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Counting Sort
