@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jsalammagari/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jsalammagari/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/jsalammagari/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jsalammagari/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jsalammagari/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jsalammagari/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -93,6 +94,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jsalammagari/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jsalammagari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/jsalammagari/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jsalammagari/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jsalammagari/leetcode/tree/master/0125-valid-palindrome) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jsalammagari/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jsalammagari/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jsalammagari/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jsalammagari/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jsalammagari/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -118,6 +121,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jsalammagari/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jsalammagari/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/jsalammagari/leetcode/tree/master/0392-is-subsequence) |
 ## Math
@@ -304,4 +308,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jsalammagari/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jsalammagari/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
