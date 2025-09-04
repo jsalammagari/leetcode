@@ -75,6 +75,7 @@
 | [0012-integer-to-roman](https://github.com/jsalammagari/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jsalammagari/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jsalammagari/leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jsalammagari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/jsalammagari/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jsalammagari/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/jsalammagari/leetcode/tree/master/0257-binary-tree-paths) |
@@ -90,6 +91,7 @@
 | [0016-3sum-closest](https://github.com/jsalammagari/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jsalammagari/leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jsalammagari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jsalammagari/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jsalammagari/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jsalammagari/leetcode/tree/master/0125-valid-palindrome) |
@@ -264,6 +266,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jsalammagari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/jsalammagari/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
