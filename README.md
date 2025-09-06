@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/jsalammagari/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jsalammagari/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jsalammagari/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/jsalammagari/leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/jsalammagari/leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/jsalammagari/leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/jsalammagari/leetcode/tree/master/0822-unique-morse-code-words) |
@@ -54,6 +55,7 @@
 | [0169-majority-element](https://github.com/jsalammagari/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jsalammagari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jsalammagari/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jsalammagari/leetcode/tree/master/0268-missing-number) |
 | [0822-unique-morse-code-words](https://github.com/jsalammagari/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jsalammagari/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jsalammagari/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -68,6 +70,7 @@
 | [0169-majority-element](https://github.com/jsalammagari/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jsalammagari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jsalammagari/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jsalammagari/leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/jsalammagari/leetcode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/jsalammagari/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jsalammagari/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -124,6 +127,7 @@
 | [0035-search-insert-position](https://github.com/jsalammagari/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jsalammagari/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/jsalammagari/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/jsalammagari/leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/jsalammagari/leetcode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -138,6 +142,7 @@
 | [0013-roman-to-integer](https://github.com/jsalammagari/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/jsalammagari/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jsalammagari/leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/jsalammagari/leetcode/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/jsalammagari/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jsalammagari/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/jsalammagari/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -153,6 +158,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jsalammagari/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/jsalammagari/leetcode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/jsalammagari/leetcode/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
