@@ -10,8 +10,9 @@ class Solution:
         q=collections.deque()
         q.append(root)
         while q:
+            qlen=len(q)
             level=[]
-            for i in range(len(q)):
+            for i in range(qlen):
                 node=q.popleft()
                 if node:
                     level.append(node.val)
@@ -20,4 +21,3 @@ class Solution:
             if level:
                 res.append(level)
         return res
-            
