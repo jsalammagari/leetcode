@@ -197,6 +197,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jsalammagari/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jsalammagari/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jsalammagari/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
@@ -328,6 +329,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jsalammagari/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jsalammagari/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/jsalammagari/leetcode/tree/master/0169-majority-element) |
 ## Binary Search Tree
@@ -342,6 +344,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jsalammagari/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jsalammagari/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/jsalammagari/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/jsalammagari/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/jsalammagari/leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/jsalammagari/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -365,4 +368,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jsalammagari/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jsalammagari/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
